@@ -1,6 +1,6 @@
 # TaskTalk
 
-TaskTalk é um chatbot desenvolvido por estudantes da **UFRJ** para a disciplina de **Empreendedorismo 2024.2**. Ele tem como objetivo simplificar o planejamento de eventos, ajudando usuários a organizar suas tarefas de forma personalizada e eficiente.
+TaskTalk é uma proposta de chatbot desenvolvido por estudantes da **UFRJ** para a disciplina de **Empreendedorismo 2024.2**. Ele tem como objetivo simplificar o planejamento de eventos, ajudando usuários a organizar suas tarefas de forma personalizada e eficiente.
 
 ## 📌 Motivação
 
